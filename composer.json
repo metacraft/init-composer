@@ -1,0 +1,19 @@
+{
+  "name": "metacraft/init",
+  "description": "",
+  "type": "project",
+  "license": "MIT",
+  "homepage": "https://metacraft.dev/",
+  "keywords": ["metacraft", "russian"],
+  "support": {
+    "source": "https://github.com/metacraft/init-composer",
+    "issues": "https://github.com/metacraft/init-composer/issues",
+    "docs": "https://github.com/metacraft/init-composer/wiki",
+    "forum": "https://github.com/metacraft/init-composer/discussions"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "prepend-autoloader": false,
+    "sort-packages": true
+  }
+}
